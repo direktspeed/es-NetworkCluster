@@ -13,3 +13,5 @@ Algo:
 yes its a distributedMessageBus this can be used with JSON Data or Grpc or HTTP2 WebRTC
 
 Its also the basic building block of a service mesh or a network mesh
+
+the limits? a broker can handle x connections including the connections to other brokers next scaling option is sharding to unlimited.this is what for example couchbase, and kafka do.
