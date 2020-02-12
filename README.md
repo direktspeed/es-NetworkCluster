@@ -11,3 +11,5 @@ Algo:
   - Retrive instances also via internal messages
   
 yes its a distributedMessageBus this can be used with JSON Data or Grpc or HTTP2 WebRTC
+
+Its also the basic building block of a service mesh or a network mesh
